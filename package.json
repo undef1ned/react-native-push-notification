@@ -23,9 +23,6 @@
     "type": "git",
     "url": "git+ssh://git@github.com:zo0r/react-native-push-notification.git"
   },
-  "peerDependencies": {
-    "react-native": ">=0.28"
-  },
   "rnpm": {
     "android": {
       "packageInstance": "new ReactNativePushNotificationPackage()"
